@@ -12,6 +12,8 @@ PlayerTextDrawBackgroundColor(playerid, Text_Player[playerid][0], 255);
 PlayerTextDrawFont(playerid, Text_Player[playerid][0], 4);
 PlayerTextDrawSetProportional(playerid, Text_Player[playerid][0], 0);
 
+HI
+
 Text_Player[playerid][1] = CreatePlayerTextDraw(playerid, 240.666, 96.905, "LD_SPAC:white");
 PlayerTextDrawTextSize(playerid, Text_Player[playerid][1], 146.000, 270.000);
 PlayerTextDrawAlignment(playerid, Text_Player[playerid][1], 1);
